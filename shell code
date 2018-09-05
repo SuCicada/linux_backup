@@ -1,0 +1,47 @@
+watch sensors   #动态查看CPU温度
+psensor         #可视化温度
+subl            #sublime（为了中文输入）
+sudo ntfsfix /dev/sda5   挂载Windows分区
+
+iconv -f gbk -t utf8  filename  gbk文件转utf8
+ln -s 原路径  目标路径
+
+unzip -O cp936  xxx.zip   zip 解压文件名乱码
+cpulimit -e /usr/local/nginx-1.4.1/sbin/nginx -l 50   限制程序占用cpu
+
+sudo apt-get update
+sudo apt-get upgrade
+
+关于dpkg 被中断，
+sudo rm /var/lib/dpkg/updates/*
+sudo dpkg --configure -a
+sudo apt-get update
+sudo apt-get upgrade
+
+sudo apt-get autoclean 清理旧版本的软件缓存
+sudo apt-get clean 清理所有软件缓存
+sudo apt-get autoremove 删除系统不再使用的孤立软
+
+安装字体
+cp aa.ttl /usr/share/fonts
+cd /usr/share/fonts
+mkfontscale
+mkfontdir
+
+phddns start oray
+
+gnome-terminal 打开终端
+
+sudo systemctl restart lightdm  重启桌面
+
+ps -aux|grep python
+
+#start aria2
+sudo aria2c --conf-path=/etc/aria2/aria2.conf 
+
+#U盘只读
+sudo mount -o remount,rw /media/peng/UsbStorage
+
+sslvpn
+sudo openconnect --juniper -u 201602801262 --script /etc/vpnc/vpnc-script https://sslvpn.sxu.edu.cn
+

@@ -1,0 +1,50 @@
+#chrome 自定义快捷键
+https://jingyan.baidu.com/article/e52e3615bb768640c60c5198.html
+
+#使用讯飞sdk
+https://doc.xfyun.cn/msc_linux/SDK%E5%8C%85%E5%AF%BC%E5%85%A5.html
+
+#alsa/asoundlib.h: No such file or directory
+apt-get install libasound2-dev
+
+dvwa网站安装
+http://www.mamicode.com/info-detail-2218015.html
+sudo apt-get install php-gd
+sudo apt-get install freetype*
+
+kali 64 安装
+
+vmware workstation 安装
+
+webug3.0 下载
+
+wine 安装
+
+java安装
+
+mid播放
+sudo apt-get install fluidsynth
+
+sudo apt-get install libncurses5-dev 
+apt install xmlto
+
+sudo apt-get install blueman
+
+sudo apt-get install easystroke 
+
+shift+f10 鼠标右键
+
+sudo apt-get install python-pyaudio
+
+改了pip3的下载源
+https://www.cnblogs.com/microman/p/6107879.html
+
+for ons
+sudo apt-get install libsdl1.2debian libsdl-sound1.2 libsdl-ttf2.0-0 libsdl-mixer1.2 libsdl-image1.2 libasound2 libjpeg62 libpng12-0 libvorbisfile3 libsmpeg0 libavifile-0.7c2 libbz2-1.0 libogg0
+
+sudo pip3 install baidu-aip
+
+sudo apt-get install aria2
+
+sudo aptitude install libqt4-webkit libqt4-script libqt4-qt3support libqt4-sql
+
